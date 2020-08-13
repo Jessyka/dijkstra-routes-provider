@@ -1,0 +1,49 @@
+{
+  "edges": [
+    {
+      "vertexBegin": "A",
+      "vertexEnd": "B",
+      "weight": 5
+    },
+    {
+      "vertexBegin": "B",
+      "vertexEnd": "C",
+      "weight": 4
+    },
+    {
+      "vertexBegin": "C",
+      "vertexEnd": "D",
+      "weight": 8
+    },
+    {
+      "vertexBegin": "D",
+      "vertexEnd": "C",
+      "weight": 8
+    },
+    {
+      "vertexBegin": "D",
+      "vertexEnd": "E",
+      "weight": 6
+    },
+    {
+      "vertexBegin": "A",
+      "vertexEnd": "D",
+      "weight": 5
+    },
+    {
+      "vertexBegin": "C",
+      "vertexEnd": "E",
+      "weight": 2
+    },
+    {
+      "vertexBegin": "E",
+      "vertexEnd": "B",
+      "weight": 3
+    },
+    {
+      "vertexBegin": "A",
+      "vertexEnd": "E",
+      "weight": 7
+    }
+  ]
+}
